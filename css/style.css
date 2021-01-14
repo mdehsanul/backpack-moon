@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+}
+.company-name h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 105px;
+  color: #363958;
+}
+.header-button {
+  width: 200px;
+  height: 74px;
+  border-radius: 10px;
+  background-color: #09015f;
+}
+.categories {
+  font-family: "Bebas Neue", cursive;
+  font-size: 60px;
+  color: #363958;
+}
+.card-image {
+  background-color: rgb(241, 241, 241);
+  border-radius: 10px;
+  padding: 38px 0px;
+}
+.backpack-card {
+  border: 0px;
+}
+.backpack-card-footer {
+  background-color: white;
+  border: 0;
+}
+.button-grp {
+  width: 180px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #09015f;
+}
+.footer-link {
+  text-decoration: none;
+  color: #363958;
+  font-weight: 700;
+}
